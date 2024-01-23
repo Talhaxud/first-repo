@@ -75,3 +75,8 @@ form{
 	background-color: #008080;
 	color:#fff;
 }
+.imgcontainer {
+    margin: 0px auto;
+    justify-content: center;
+    text-align: center;
+}
